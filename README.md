@@ -1,7 +1,17 @@
 # Workshops for Computational Social Scientists
 
+Here you can find the links to all the workshops I have organized and given.
+
+Did you find the useful? **Would you like to organize a workshop for your team?**
+
+**Then do not hesitate to get in touch with me!**
+
+[https://sofiag1l.github.io/contact/](https://sofiag1l.github.io/contact/)
+
 ## R for Social Scientists
+
 [Every year starting in 2025.]
+
 I designed this course to give social scientists all that is necessary to start 
 using R in their everyday work. The course is designed for academics in different 
 career stages (from PhD students to professors) and with different backgrounds. 
@@ -20,7 +30,9 @@ Gil-Clavel, S. (2025). R-Course: R for Social Scientists (Version 1.0).
 
 
 ## Workshops on Digital Data: Use, Retrieval, and Analysis 
+
 [Jan.2019 – Current]
+
 I fully prepared a 3-hours workshop that aims to give a general overview on the 
 use of digital data for population research, and how to use application programming 
 interfaces to download digital data from diverse social media platforms. The 
