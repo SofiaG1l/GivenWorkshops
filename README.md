@@ -1,6 +1,8 @@
 # Workshops for Computational Social Scientists
 
-Here you can find the links to all the workshops I have organized and given.
+Here you can find the links to all the workshops I have organized and given. The
+material is aim to diverse audiences, as long as they have some experience with
+data handling and data analysis ranging from Excel, SPSS, to python.
 
 Did you find the useful? **Would you like to organize a workshop for your team?**
 
