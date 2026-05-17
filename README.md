@@ -27,7 +27,11 @@ interfaces to download digital data from diverse social media platforms. The
 course has been followed by bachelor, master, and doctoral students, as well as 
 professors from different international institutions, and it has received very 
 good reviews.
+
 •	Vrije Universiteit Amsterdam, Netherlands. [Bytes & Bites](https://github.com/SofiaG1l/Bytes_n_Bites_SGC?tab=readme-ov-file#requirements) [Apr. 2026]
+
 •	El Colegio de México, Mexico [Taller COLMEX API](https://github.com/SofiaG1l/Taller_COLMEX_API). [Sep. 2023 & Apr. 2022]
+
 •	Max Planck Institute for Demographic Research, Germany [Using Facebook API](https://github.com/SofiaG1l/Using_Facebook_API). [Oct. 2019]
+
 •	Instituto de Economía, Geografía y Demografía, Spain [IUSSP seminar digital demography era big data](https://iussp.org/en/iussp-seminar-digital-demography-era-big-data). [Jun. 2019] 
