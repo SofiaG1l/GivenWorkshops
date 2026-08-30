@@ -10,11 +10,11 @@ data handling and data analysis.
   - [Programming and Data Analysis in R](#programming_and_data_analysis_in_r)
     -   [R for Social Scientists](#r_for_social_scientists)
     -   [R Tools for Teaching and Research](#r_tools_for_teaching_and_research)
-  -   [Workshops on Content Analysis of Digital Data](#workshops_on_digital_data)
-    - [Content Analysis](content_analysis)
-    - [Retrieving and Analyzing the Guardian News](retrieving_and_analyzing_the_guardian_news)
-    - [Retrieving and Analyzing data from Facebook and Twitter](retrieving_and_analyzing_data_from_facebook_and_twitter)
-    - [Using the Facebook Marketing API](using_the_facebook_marketing_api)
+  - [Workshops on Content Analysis of Digital Data](#workshops_on_digital_data)
+    -   [Content Analysis](content_analysis)
+    -   [Retrieving and Analyzing the Guardian News](retrieving_and_analyzing_the_guardian_news)
+    -   [Retrieving and Analyzing data from Facebook and Twitter](retrieving_and_analyzing_data_from_facebook_and_twitter)
+    -   [Using the Facebook Marketing API](using_the_facebook_marketing_api)
 
 
 Did you find the useful? **Would you like to organize a workshop for your team?**
