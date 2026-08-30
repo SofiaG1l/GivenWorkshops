@@ -7,14 +7,14 @@ and their application to content analysis of digital data.
 The material is aimed to diverse audiences, as long as they have some experience with
 data handling and data analysis.
 
-  - [Programming and Data Analysis in R](#programming_and_data_analysis_in_r)
-    -   [R for Social Scientists](#r_for_social_scientists)
-    -   [R Tools for Teaching and Research](#r_tools_for_teaching_and_research)
-  - [Workshops on Content Analysis of Digital Data](#workshops_on_digital_data)
-    -   [Content Analysis](#content_analysis)
-    -   [Retrieving and Analyzing the Guardian News](#retrieving_and_analyzing_the_guardian_news)
-    -   [Retrieving and Analyzing data from Facebook and Twitter](#retrieving_and_analyzing_data_from_facebook_and_twitter)
-    -   [Using the Facebook Marketing API](#using_the_facebook_marketing_api)
+  - [Programming and Data Analysis in R](#programming-and-data-analysis-in-r)
+    -   [R for Social Scientists](#r-for-social-scientists)
+    -   [R Tools for Teaching and Research](#r-tools-for-teaching-and-research)
+  - [Workshops on Content Analysis of Digital Data](#workshops-on-digital-data)
+    -   [Content Analysis](#content-analysis)
+    -   [Retrieving and Analyzing the Guardian News](#retrieving-and-analyzing-the-guardian-news)
+    -   [Retrieving and Analyzing data from Facebook and Twitter](#retrieving-and-analyzing-data-from-facebook-and-twitter)
+    -   [Using the Facebook Marketing API](#using-the-facebook-marketing-api)
 
 
 Did you find the useful? **Would you like to organize a workshop for your team?**
