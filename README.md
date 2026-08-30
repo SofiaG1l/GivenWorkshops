@@ -122,6 +122,6 @@ aggregated data of different users' demographic characteristics.
 You can access all the material [here](https://github.com/SofiaG1l/Using_Facebook_API), 
 and check the video of the course [here](https://iussp.org/en/iussp-seminar-digital-demography-era-big-data).
 
-Originally, this workshop was requested by IUSSP and funded by BBVA Foundation [Bytes & Bites](https://iussp.org/en/iussp-seminar-digital-demography-era-big-data)
+Originally, this workshop was requested by IUSSP and funded by BBVA Foundation [link](https://iussp.org/en/iussp-seminar-digital-demography-era-big-data)
 as part of their professional development program [Jun. 2019].
 
